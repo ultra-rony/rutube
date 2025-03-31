@@ -1,0 +1,21 @@
+name: rutube
+description: "Rutube Video Player – Open Source Flutter Package. Integrate Rutube video playback into your Flutter apps with ease. This flexible, developer-friendly library allows embedding high-quality Rutube videos effortlessly. Elevate your projects today!"
+version: 0.0.1
+repository: https://github.com/ultra-rony/rutube
+homepage: https://rony.fun
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_inappwebview: ^6.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
